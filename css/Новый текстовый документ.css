@@ -12,3 +12,6 @@ header, footer {
 header, main, footer, nav{
   font-family: 'Roboto Condensed', sans-serif;
 }
+.gif{
+  margin-left: 300px;
+}
