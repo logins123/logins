@@ -1,0 +1,14 @@
+header, footer {
+ background-color: #38b6ff;
+}
+.fig{
+
+  display: block; /* Блочный элемент (для старых браузеров) */
+  text-align: center; /* Выравнивание по центру */
+  font-style: italic; /* Курсивное начертание */
+  margin-top: 0; /* Отступ сверху */
+  margin-left: 500px; /* Отступ снизу */
+}
+header, main, footer, nav{
+  font-family: 'Roboto Condensed', sans-serif;
+}
